@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="15795" started-at="2022-05-02T09:08:42 IST" finished-at="2022-05-02T09:08:58 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="15795" started-at="2022-05-02T09:08:42 IST" finished-at="2022-05-02T09:08:58 IST">
+      <class name="com.adactin.runner.Adactin_Project">
+        <test-method status="PASS" signature="launchSite()[pri:1, instance:com.adactin.runner.Adactin_Project@37911f88]" name="launchSite" duration-ms="6645" started-at="2022-05-02T09:08:42 IST" finished-at="2022-05-02T09:08:49 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchSite -->
+        <test-method status="PASS" signature="hotelSearch()[pri:2, instance:com.adactin.runner.Adactin_Project@37911f88]" name="hotelSearch" duration-ms="1353" started-at="2022-05-02T09:08:49 IST" finished-at="2022-05-02T09:08:50 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- hotelSearch -->
+        <test-method status="PASS" signature="confirmHotel()[pri:3, instance:com.adactin.runner.Adactin_Project@37911f88]" name="confirmHotel" duration-ms="714" started-at="2022-05-02T09:08:50 IST" finished-at="2022-05-02T09:08:51 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- confirmHotel -->
+        <test-method status="PASS" signature="confirmPayment()[pri:4, instance:com.adactin.runner.Adactin_Project@37911f88]" name="confirmPayment" duration-ms="701" started-at="2022-05-02T09:08:51 IST" finished-at="2022-05-02T09:08:51 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- confirmPayment -->
+        <test-method status="PASS" signature="logOff()[pri:5, instance:com.adactin.runner.Adactin_Project@37911f88]" name="logOff" duration-ms="6326" started-at="2022-05-02T09:08:51 IST" finished-at="2022-05-02T09:08:58 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logOff -->
+      </class> <!-- com.adactin.runner.Adactin_Project -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
